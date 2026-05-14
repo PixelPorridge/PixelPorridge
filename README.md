@@ -1,4 +1,4 @@
-### Hello! :wave:
+## Hello! :wave:
 
 I'm Torin, an aspiring game, web, and software developer.
 
