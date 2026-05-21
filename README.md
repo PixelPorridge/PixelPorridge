@@ -1,6 +1,6 @@
 ## Hello! :wave:
 
-I'm Torin, an aspiring game, web, and software developer based in Melbourne! ☕ 🇦🇺
+I'm Torin, an aspiring game, web, and software developer based in Melbourne. ☕ 🇦🇺
 
 I'm a Computer Science graduate from **Monash University**.
 
